@@ -12,7 +12,7 @@ The goal of the analysis of the MoMA art collection dataset is to provide insigh
 | [Artworks.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/d831b89fe824225bfca79f6a8391df5678865c1e/MoMA%20Art%20Collection%20Analysis/Artworks.xlsx)                   | Original Dataset               |
 | [Artworks_Copy.xlsx](https://github.com/ParikshitaJain/PortfolioProjects/blob/0ace48cb1f9498fa41c558d598996d29b288801c/MoMA%20Art%20Collection%20Analysis/Artworks_Copy.xlsx)     | Processed Dataset ready for Power BI    |
 | [MoMa Art Gallery Python.ipynb](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/MoMA%20Art%20Gallery%20Python.ipynb)  |             Python script for analysis                     |
-| [MoMA Art Gallery.pbix](https://github.com/ParikshitaJain/PortfolioProjects/blob/86a25db934df735a842093b25bdda56c80ce3fc0/3.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis.pbix)        | Power BI Workbook         |
+| [MoMA Art Gallery.png](https://github.com/Parikshita-Parmar/PortfolioProjects/blob/9468ba8ea80ebc6d7955c2c8295a77849fe32c57/6.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis%20dashboard.png)        | Power BI Dashboard         |
 | [MoMa art gallery Report.pdf](https://github.com/ParikshitaJain/PortfolioProjects/blob/86a25db934df735a842093b25bdda56c80ce3fc0/3.%20MoMA%20Art%20Collection%20Analysis/MoMA%20art%20gallery%20data%20analysis%20dashboard.pdf)          | Project Report      |
 | [README.md](https://github.com/ParikshitaJain/PortfolioProjects/blob/b4db667dac446cd55d5558311e21e911e5c3264f/MoMA%20Art%20Collection%20Analysis/README.md)                | Project documentation          |
 
